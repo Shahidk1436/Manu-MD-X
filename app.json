@@ -1,13 +1,13 @@
 {
   "name": "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
-  "description": "Javascript WhatsApp bot made by Manul Official",
+  "description": "Javascript WhatsApp bot made M_shahid",
   "logo": "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Manu-MD&udsQxbJL#GkO8hzoJOBD5kZ3Kr46d8Li4jiCyErkat2UEB0Fw87o",
       "required": true
     },  
 
@@ -104,7 +104,7 @@
     },
     
     "MODE": {
-      "description": "Put worktype public or private or groups.",
+      "description": "public",
       "required": true
     }   
 },
