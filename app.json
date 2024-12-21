@@ -1,5 +1,5 @@
 {
-  "name": "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
+  "name": "Miss you dear..life",
   "description": "Javascript WhatsApp bot made M_shahid",
   "logo": "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
   "keywords": ["bot"],
@@ -12,7 +12,7 @@
     },  
 
     "READ_CMD": {
-      "description": "Put true or false.",
+      "description": "true",
       "required": false
     },
     
@@ -37,8 +37,8 @@
     },
     
         "BOT_NUMBER": {
-      "description": "Put your bot number.",
-      "required": false
+      "description": "923318794921",
+      "required": true
     },
     
         "ANTI_BAD": {
@@ -73,13 +73,13 @@
       "required": false
     },
             "OWNER_NUMBER": {
-      "description": "Put your owner number.",
+      "description": "923318794921",
       "required": false
     },
     
      "OWNER_NAME": {
-      "description": "Put your owner name.",
-      "required": false
+      "description": "M_Shahid",
+      "required": true
     },
     
     
@@ -90,17 +90,17 @@
     
       "AUTO_READ_STATUS": {
       "description": "Put true or false.",
-      "required": false
+      "required": true
     },
     
       "ANTI_DELETE": {
       "description": "Put true or false.",
-      "required": false
+      "required": true
     },
     
       "DELETEMSGSENDTO": {
-      "description": "Put your number for forward delete messeges.",
-      "required": false
+      "description": "923318794921",
+      "required": true
     },
     
     "MODE": {
